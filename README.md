@@ -9,6 +9,10 @@ Since accuracy in medical diagnostics is critical, the model was optimized to ac
 
 ---
 
+
+<img src="bt1.png" alt="Brain Tumor Detection" width="700">
+<img src="bt2.png" alt="Brain Tumor Detection" width="700">
+
 ## 🗂️ Dataset Preparation  
 - **Split**:  
   - Training → 70%  
